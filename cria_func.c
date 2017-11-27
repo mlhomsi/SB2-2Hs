@@ -1,5 +1,5 @@
 /* Bernardo Hörner Lopes / 1611790 / 3wb*/
-/* Matheus Loriato Homsi / / 3wb */
+/* Matheus Loriato Homsi / 1510866/ 3wb */
 
 #include <stdio.h>
 #include <stdlib.h>
